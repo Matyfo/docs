@@ -94,8 +94,8 @@
   "navbar": {
     "links": [
       {
-        "label": "Support",
-        "href": "mailto:hi@mintlify.com"
+        "label": "Podpora",
+        "href": "mailto:kontakt@diversity.cz"
       }
     ],
     "primary": {
@@ -122,5 +122,8 @@
       "github": "https://github.com/mintlify",
       "linkedin": "https://linkedin.com/company/mintlify"
     }
+  },
+  "appearance": {
+    "default": "dark"
   }
 }
